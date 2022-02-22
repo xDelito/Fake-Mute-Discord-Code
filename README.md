@@ -1,6 +1,6 @@
 # Fake-Mute-Discord-Code
-
 (Exploit of Discord Web)
+
 Help - discord.gg/security
 
 # | How to use
