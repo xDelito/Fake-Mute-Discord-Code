@@ -16,4 +16,4 @@ Help - discord.gg/security
 **5** - **Now you faked your mic!**
 
 
-``After you turned ON the plugin , you cant join any other voice channels , for this you have to Reload discord!`
+*After you turned ON the plugin , you cant join any other voice channels , for this you have to Reload discord!*
