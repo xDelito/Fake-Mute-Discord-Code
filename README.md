@@ -13,7 +13,7 @@ Help - discord.gg/security
 
 **4** -  **Put the code on the console**
 
-**5** - **Now you faked your mic!**
+**5** - **Unmute and now you can hear/speak with mute!**
 
 
 *After you turned ON the plugin , you cant join any other voice channels , for this you have to Reload discord!*
