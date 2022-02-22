@@ -6,14 +6,8 @@ WebSocket.prototype.send = function(data) {
         if (text.decode(data).includes("self_deaf")) {
             console.log("found mute/deafen");
             data = data.replace('"self_mute":false', 'discord.gg/security');
-            console.log("Faked");
+            console.log("faked");
         }
     }
     WebSocket.prototype.original.apply(this, [data]);
-}
-
-
-    stop() {
-
-    }
 }
