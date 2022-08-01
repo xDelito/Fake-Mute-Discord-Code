@@ -1,4 +1,4 @@
-# Fake-Mute-Discord-Code
+# Fake-Mute-Discord-Code (Exploit of Discord Web)
 (Exploit of Discord Web)
 
 Help - discord.gg/security
